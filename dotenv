@@ -1,0 +1,9 @@
+#This is the default .env file for this Django project, rename this file to .env and make changes as appropriate to your instance of the project
+
+SECRET_KEY=secretKey
+DATABASE_NAME=enter name of your database
+DATABASE_USER=enter the project user of the database
+DATABASE_PASSWORD=password of that user
+DATABASE_HOST=localhost is default
+DATABASE_PORT=3306 is default
+DEBUG=TRUE is default

@@ -7,3 +7,4 @@ DATABASE_PASSWORD=password of that user
 DATABASE_HOST=localhost is default
 DATABASE_PORT=3306 is default
 DEBUG=TRUE is default
+HOST_ALLOWED=The domain you are hosting
